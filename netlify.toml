@@ -1,5 +1,7 @@
 [build]
   command = "npm run build"
   publish = "build"
-
+ command = "npm run build"
+  publish="DashBoarding-main/build"
+  base = "DashBoarding-main"
 
