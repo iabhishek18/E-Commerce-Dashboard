@@ -1,2 +1,15 @@
 [build]
-command = “CI= npm run build”
+  command = "npm run build"
+  publish = "build"
+
+[context]
+  production = "production"
+
+[functions]
+  source = "functions"
+
+[redirects]
+  [[redirects]]
+    from = "/*"
+    to = "/index.html"
+    status = 200
