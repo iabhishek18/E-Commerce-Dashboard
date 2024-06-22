@@ -3,6 +3,3 @@
   publish = "build"
 
 
-[functions]
-  source = "functions"
-
