@@ -1,7 +1,3 @@
-Here’s a detailed and professional **README** file for your **E-Commerce Dashboard** GitHub repository:
-
----
-
 # **E-Commerce Dashboard**
 
 Welcome to the **E-Commerce Dashboard** project! This repository contains the source code for a dynamic and interactive web-based dashboard that provides a comprehensive view of an e-commerce platform's performance metrics, analytics, and data visualizations.
